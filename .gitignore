@@ -1,0 +1,13 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+.env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# macOS system file (ignore)
+.DS_Store
