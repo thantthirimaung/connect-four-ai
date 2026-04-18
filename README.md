@@ -265,6 +265,11 @@ score = sum(score_window(w, RED)) - sum(score_window(w, YELLOW))
 
 *A step-by-step visual of the AI making decisions during a live game.*
 
+
+https://github.com/user-attachments/assets/f7bc0a42-12fa-444d-8588-77d3c8b62873
+
+
+
 ---
 
 ## Usage
